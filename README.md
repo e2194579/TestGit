@@ -1,2 +1,2 @@
 # TestGitRenyo
-Renaud & Yordan
+Renaud
